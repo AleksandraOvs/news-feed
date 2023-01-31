@@ -1,0 +1,67 @@
+@font-face {
+  font-weight: 200;
+  font-style: normal;
+  font-family: 'Fira';
+  font-display: swap;
+  src: 
+      local('Fira'),
+      url('../fonts/fira-extralight.woff2') format('woff2'),
+      url('../fonts/fira-extralight.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 200;
+  font-style: italic;
+  font-family: 'Fira';
+  font-display: swap;
+  src: 
+      local('Fira'),
+      url('../fonts/fira-extralightitalic.woff2') format('woff2'),
+      url('../fonts/fira-extralightitalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Fira';
+    font-display: swap;
+    src: 
+        local('Fira'),
+        url('../fonts/fira-light.woff2') format('woff2'),
+        url('../fonts/fira-light.woff') format('woff');
+  }
+
+  @font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Fira';
+    font-display: swap;
+    src: 
+        local('Fira'),
+        url('../fonts/fira-regular.woff2') format('woff2'),
+        url('../fonts/fira-regular.woff') format('woff');
+  }
+
+
+  @font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Fira';
+    font-display: swap;
+    src: 
+        local('Fira'),
+        url('../fonts/fira-extrabold.woff2') format('woff2'),
+        url('../fonts/fira-extrabold.woff') format('woff');
+  }
+
+  @font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Noto';
+    font-display: swap;
+    src: 
+        local('Fira'),
+        url('../fonts/notosans-regular.woff2') format('woff2'),
+        url('../fonts/notosans-regular.woff') format('woff');
+  }
